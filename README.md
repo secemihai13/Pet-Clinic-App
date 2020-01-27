@@ -1,1 +1,2 @@
-# Pet-Clinic-App
+# sfg-pet-clinic
+SFT Pet Clinic
